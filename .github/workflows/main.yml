@@ -47,5 +47,5 @@ jobs:
           script: |
             cd /data/wwwroot/pro.project256.com
             mkdocs build
-            cp site/* ./
+            cp -r site/* ./
             
