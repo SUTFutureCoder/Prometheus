@@ -1,5 +1,2 @@
-dfdasdfdsf 
+## 校招基础说明
 
-# BasicTest
-
-test
