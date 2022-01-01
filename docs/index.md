@@ -14,7 +14,7 @@
 
 ## 致贡献者
 
-如想要贡献真题到这个仓库中，请按照[PR提交模板](PR提交模板.md)提交Pull Request
+如想要贡献真题到这个仓库中，请按照[PR提交模板](pr_template.md)提交Pull Request
 
 此仓库基于MkDoc构建，您可以在本机进行编写并编译查看，当然可以使用Typora等MarkDown所见即所得编辑器
 
